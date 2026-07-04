@@ -83,7 +83,8 @@ goal:           Data Analyst
 <img src="https://img.icons8.com/color/48/machine-learning.png"/>
 
 <img src="https://img.icons8.com/color/48/deep-learning.png"/>
-
+<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-E91E63?style=for-the-badge"/>
 
 </td>
 </tr>
