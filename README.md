@@ -85,8 +85,8 @@ goal:           Data Analyst
 <tr>
 <td><b>⚡ Automation</b></td>
 <td>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/n8n.png"/>
+<img src="https://img.icons8.com/fluency/48/chatgpt.png"/>
 </td>
 </tr>
 
