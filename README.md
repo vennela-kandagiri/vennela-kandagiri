@@ -51,7 +51,7 @@ goal:           Data Analyst
 <table width="100%">
 <tr>
 <h2> 💻 Tech Stack </h2>
-<td width="30%" valign="top">
+<td width="40%" valign="top">
 
   <td>
 <tr>
