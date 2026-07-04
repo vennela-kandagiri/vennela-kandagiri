@@ -47,45 +47,16 @@ goal:           Data Analyst
 </tr>
 </table>
 
+
 ## 💻 Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
 
-### 📊 Data Analytics
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-### 🤖 AI / ML / DL
-<p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-5C2D91?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-8E24AA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
-
-### Libraries/ Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
-### 🛠️ Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<!--
-**vennela-kandagiri/vennela-kandagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+|----------|--------------|
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=python,java,mysql" /> |
+| 📊 **Data Analytics** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/> <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45"/> <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45"/> <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="45"/> |
+| 🤖 **AI / ML / DL** | <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45"/> <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45"/> |
+| ⚡ **Automation** | <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/> |
+| 🛠️ **Version Control** | <img src="https://skillicons.dev/icons?i=git,github" /> |
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
