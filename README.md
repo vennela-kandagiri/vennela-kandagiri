@@ -108,27 +108,6 @@ goal:           Data Analyst
 
 </td>
 
-<td width="30%" valign="top">
-
-## 🌱 Learning & Exploring
-
-
-📊 **Advanced Data Analytics**  
-Deepening my expertise in Power BI, DAX, SQL optimization, and data modeling to build scalable business intelligence solutions.
-
-⚡ **AI Automation**  
-Building intelligent workflows using n8n, APIs, and Large Language Models to automate business processes and improve efficiency.
-
-🧠 **Generative AI & LLMs**  
-Learning prompt engineering, AI applications, and LLM-powered solutions to create smarter, data-driven systems.
-
-📈 **Business Intelligence**  
-Enhancing my skills in dashboard design, KPI development, and data storytelling to transform complex data into actionable insights.
- 
-
-
-
-</td>
 
 </tr>
 </table>
