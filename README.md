@@ -85,7 +85,7 @@ goal:           Data Analyst
 <tr>
 <td><b>⚡ Automation</b></td>
 <td>
-<img src="https://img.icons8.com/color/48/n8n.png"/>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48"/>
 <img src="https://img.icons8.com/fluency/48/chatgpt.png"/>
 </td>
 </tr>
