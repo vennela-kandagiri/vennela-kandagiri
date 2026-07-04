@@ -23,13 +23,22 @@ I'm currently seeking opportunities as a **Data Analyst**, where I can leverage 
 
 <td width="40%" valign="top">
 
-## 🌱 Currently Learning & Exploring
+## ⚡ At a Glance
 
-I'm continuously enhancing my skills in **Data Analytics** by learning advanced **Power BI**, **SQL**, **Power Query**, and **DAX** to create scalable dashboards and support data-driven decision-making.
 
-My current focus also includes **Machine Learning** and **Predictive Analytics**, where I'm exploring techniques for building predictive models and extracting actionable insights from complex datasets.
+```yaml
+name:           Vennela Kandagiri
+education:      B.Tech AI & ML (2023–2027)
+experience:     4 Months (Internships)
+focus:          Data Analytics • Power BI • ML
+projects:       20+ end to end projects
+Certifications: 5+ professional certifications
+Languages :     Python • SQL • Java
+Skills:         Power BI • Excel • AI • ML • DL • Automation  
+tools:          Git • GitHub • SQL Server
+location:       Telangana, India
+```
 
-Alongside analytics, I'm exploring **AI Automation** with **n8n**, **Generative AI**, and **Large Language Models (LLMs)** to develop intelligent workflows that automate business tasks and improve operational efficiency.
 </td>
 
 </tr>
