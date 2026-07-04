@@ -65,8 +65,9 @@ goal:           Data Analyst
 
   <img src="https://img.icons8.com/color/48/power-bi.png"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-<img src="https://skillicons.dev/icons?i=pandas,numpy"/>
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/numpy.png"/>
+<img src="https://img.icons8.com/color/48/pandas.png"/>
+<img src="https://img.icons8.com/color/48/combo-chart--v1.png"/>
 
 </td>
 </tr>
