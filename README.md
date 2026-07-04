@@ -57,14 +57,55 @@ goal:           Data Analyst
 | 🤖 **AI / ML / DL** | <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45"/> <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45"/> |
 | ⚡ **Automation** | <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/> |
 | 🛠️ **Version Control** | <img src="https://skillicons.dev/icons?i=git,github" /> |
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 💻 Tech Stack
+
+<table>
+
+<tr>
+<td width="230"><b>💻 Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</td>
+</tr>
+
+<tr>
+<td><b>📊 Data Analytics</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48"/>
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="48"/>
+</td>
+</tr>
+
+<tr>
+<td><b>🤖 AI / ML / DL</b></td>
+<td>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48"/>
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48"/>
+<img src="https://img.shields.io/badge/AI-5C2D91?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/ML-FF9800?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/DL-7B1FA2?style=flat-square" height="28"/>
+</td>
+</tr>
+
+<tr>
+<td><b>⚡ Automation</b></td>
+<td>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48"/>
+<img src="https://cdn.simpleicons.org/openai/ffffff" height="48"/>
+</td>
+</tr>
+
+<tr>
+<td><b>🛠️ Version Control</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</td>
+</tr>
+
+</table>
