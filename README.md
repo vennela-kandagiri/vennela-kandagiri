@@ -32,36 +32,13 @@ I'm currently seeking opportunities as a **Data Analyst**, where I can leverage 
 
 <td width="40%" valign="top">
 
-## ⚡ Skills
+## 🌱 Currently Learning & Exploring
 
-**Languages**
-- Python
-- SQL
-- Java
+I'm continuously enhancing my skills in **Data Analytics** by learning advanced **Power BI**, **SQL**, **Power Query**, and **DAX** to create scalable dashboards and support data-driven decision-making.
 
-**Data Analytics**
-- Power BI
-- Excel
-- Power Query
-- DAX
-- Data Visualization
-- EDA
+My current focus also includes **Machine Learning** and **Predictive Analytics**, where I'm exploring techniques for building predictive models and extracting actionable insights from complex datasets.
 
-**Machine Learning**
-- Scikit-learn
-- NumPy
-- Pandas
-- Matplotlib
-
-**Tools**
-- Git
-- GitHub
-- SQL Server
-- Jupyter Notebook
-- n8n
-
----
-
+Alongside analytics, I'm exploring **AI Automation** with **n8n**, **Generative AI**, and **Large Language Models (LLMs)** to develop intelligent workflows that automate business tasks and improve operational efficiency.
 </td>
 
 </tr>
