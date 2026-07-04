@@ -48,13 +48,15 @@ goal:           Data Analyst
 </table>
 
 
-## 💻 Tech Stack
+table>
+<tr>
 
-<table>
-<tr>
-  <td>
-<tr>
-<td width="220"><b>💻 Languages</b></td>
+<td width="55%" valign="top">
+
+<h2>💻 Tech Stack</h2>
+
+
+<b>💻 Languages</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=python,java,mysql" />
 </td>
@@ -103,10 +105,9 @@ goal:           Data Analyst
 </tr>
 </td>
 
-
 <td width="45%" valign="top">
 
-## 🌱 Learning & Exploring
+<h2>🌱 Learning & Exploring</h2>
 
 📊 **Advanced Data Analytics**  
 Deepening my expertise in Power BI, DAX, SQL optimization, and data modeling to build scalable business intelligence solutions.
