@@ -52,6 +52,7 @@ goal:           Data Analyst
 
 <table>
 <tr>
+  <td>
 <tr>
 <td width="220"><b>💻 Languages</b></td>
 <td>
@@ -100,6 +101,7 @@ goal:           Data Analyst
 <img src="https://skillicons.dev/icons?i=git,github" />
 </td>
 </tr>
+</td>
 
 
 <td width="45%" valign="top">
