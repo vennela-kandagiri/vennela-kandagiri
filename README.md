@@ -48,25 +48,14 @@ goal:           Data Analyst
 </table>
 
 
-## 💻 Tech Stack
-
-
-|----------|--------------|
-| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=python,java,mysql" /> |
-| 📊 **Data Analytics** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/> <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45"/> <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45"/> <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="45"/> |
-| 🤖 **AI / ML / DL** | <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45"/> <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45"/> |
-| ⚡ **Automation** | <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/> |
-| 🛠️ **Version Control** | <img src="https://skillicons.dev/icons?i=git,github" /> |
-
-
 
 ## 💻 Tech Stack
 
-<table>
+<table width="100%">
 
 <tr>
-<td width="230"><b>💻 Languages</b></td>
-<td>
+<td width="25%"><b>💻 Languages</b></td>
+<td width="75%">
 <img src="https://skillicons.dev/icons?i=python,java,mysql" />
 </td>
 </tr>
@@ -74,19 +63,16 @@ goal:           Data Analyst
 <tr>
 <td><b>📊 Data Analytics</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+
 <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
 <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48"/>
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="48"/>
+
 </td>
 </tr>
 
 <tr>
 <td><b>🤖 AI / ML / DL</b></td>
 <td>
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48"/>
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48"/>
 <img src="https://img.shields.io/badge/AI-5C2D91?style=flat-square" height="28"/>
 <img src="https://img.shields.io/badge/ML-FF9800?style=flat-square" height="28"/>
 <img src="https://img.shields.io/badge/DL-7B1FA2?style=flat-square" height="28"/>
@@ -102,6 +88,17 @@ goal:           Data Analyst
 </tr>
 
 <tr>
+<td><b> Frameworks </b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="48"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48"/>
+
+</td>
+</tr>
+<tr>
+  
 <td><b>🛠️ Version Control</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=git,github" />
