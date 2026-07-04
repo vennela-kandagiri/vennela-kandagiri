@@ -48,14 +48,13 @@ goal:           Data Analyst
 </table>
 
 
-
 ## 💻 Tech Stack
 
-<table width="100%">
+<table>
 
 <tr>
-<td width="25%"><b>💻 Languages</b></td>
-<td width="75%">
+<td width="220"><b>💻 Languages</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=python,java,mysql" />
 </td>
 </tr>
@@ -63,42 +62,33 @@ goal:           Data Analyst
 <tr>
 <td><b>📊 Data Analytics</b></td>
 <td>
-
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48"/>
-
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
 </td>
 </tr>
 
 <tr>
 <td><b>🤖 AI / ML / DL</b></td>
 <td>
-<img src="https://img.shields.io/badge/AI-5C2D91?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/ML-FF9800?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/DL-7B1FA2?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep_Learning-E91E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 </td>
 </tr>
 
 <tr>
 <td><b>⚡ Automation</b></td>
 <td>
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48"/>
-<img src="https://cdn.simpleicons.org/openai/ffffff" height="48"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 </td>
 </tr>
 
 <tr>
-<td><b> Frameworks </b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="48"/>
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48"/>
-
-</td>
-</tr>
-<tr>
-  
 <td><b>🛠️ Version Control</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=git,github" />
