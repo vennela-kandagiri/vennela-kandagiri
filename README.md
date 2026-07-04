@@ -34,9 +34,12 @@ focus:          Data Analytics • Power BI • ML
 projects:       20+ end to end projects
 Certifications: 5+ professional certifications
 Languages :     Python • SQL • Java
-Skills:         Power BI • Excel • AI • ML • DL • Automation  
+Skills:         Power BI • Excel
+                AI • ML • DL • Automation  
 tools:          Git • GitHub • SQL Server
 location:       Telangana, India
+goal:           Data Analyst
+                Driving insights through data
 ```
 
 </td>
