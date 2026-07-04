@@ -6,7 +6,7 @@
 <tr>
 
 <td width="60%" valign="top">
-👩‍💻 Who I Am
+##👩‍💻 Who I Am
 
 Hi! I'm **Vennela Kandagiri**, a B.Tech student in **Artificial Intelligence & Machine Learning** with a strong interest in **Data Analytics, Business Intelligence, and Machine Learning**.
 
