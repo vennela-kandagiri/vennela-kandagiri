@@ -75,11 +75,16 @@ goal:           Data Analyst
 <tr>
 <td><b>🤖 AI / ML / DL</b></td>
 <td>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep_Learning-E91E63?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
+
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
+
+<img src="https://img.icons8.com/color/48/machine-learning.png"/>
+
+<img src="https://img.icons8.com/color/48/deep-learning.png"/>
+
+
 </td>
 </tr>
 
