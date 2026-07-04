@@ -51,7 +51,7 @@ goal:           Data Analyst
 ## 💻 Tech Stack
 
 <table>
-
+<tr>
 <tr>
 <td width="220"><b>💻 Languages</b></td>
 <td>
@@ -117,7 +117,7 @@ Learning prompt engineering, AI applications, and LLM-powered solutions to creat
 
 📈 **Business Intelligence**  
 Enhancing my skills in dashboard design, KPI development, and data storytelling to transform complex data into actionable insights.
-
+ </tr>
 </td>
 
 </table>
