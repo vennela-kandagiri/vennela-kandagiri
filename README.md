@@ -62,10 +62,12 @@ goal:           Data Analyst
 <tr>
 <td><b>📊 Data Analytics</b></td>
 <td>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy"/>
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48" height="48"/>
+
 </td>
 </tr>
 
