@@ -18,15 +18,6 @@ I'm currently seeking opportunities as a **Data Analyst**, where I can leverage 
 
 
 
-## 🏆 Certifications
-
-- IBM SkillsBuild - Customer Engagement: Problem Solving and Process Controls
-- IBM SkillsBuild - Customer Engagement:Communication and Personality Dynamics
-- IBM -Artificial Intelligence Fundamentals
-- SQL and Relational Databases 101
-- Deloitte Australia - Data Analytics Job Simulation
-- Tata - GenAI Powered Data Analytics Job Simulation
-
 
 </td>
 
