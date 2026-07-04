@@ -15,6 +15,15 @@ I have **3 months of experience as an LLM Post-Training Intern at Ethara AI**, w
 I enjoy building end-to-end data projects using **Python, SQL, Power BI, and Machine Learning** to solve real-world business problems. My projects focus on transforming raw data into actionable insights through dashboards, analytics, and predictive modeling.
 
 I'm currently seeking opportunities as a **Data Analyst**, where I can leverage data to drive informed business decisions while continuously learning and growing in the field.
+--
+## 🏆 Certifications
+
+- IBM SkillsBuild - Customer Engagement: Problem Solving and Process Controls
+- IBM SkillsBuild - Customer Engagement:Communication and Personality Dynamics
+- IBM -Artificial Intelligence Fundamentals
+- SQL and Relational Databases 101
+- Deloitte Australia - Data Analytics Job Simulation
+- Tata - GenAI Powered Data Analytics Job Simulation
 
 
 </td>
