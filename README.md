@@ -6,7 +6,7 @@
 <tr>
 
 <td width="60%" valign="top">
-## 👩‍💻 Who I Am
+<h2>👩‍💻 Who I Am </h2>
 
 Hi! I'm **Vennela Kandagiri**, a B.Tech student in **Artificial Intelligence & Machine Learning** with a strong interest in **Data Analytics, Business Intelligence, and Machine Learning**.
 
@@ -65,7 +65,7 @@ I'm currently seeking opportunities as a **Data Analyst**, where I can leverage 
 </td>
 
 </tr>
-</table>## Hi there 👋
+</table>
 
 <!--
 **vennela-kandagiri/vennela-kandagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
