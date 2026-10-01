@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vennela Kandagiri
 
-> 📊 Aspiring Data Analyst | AI & ML Undergraduate | Passionate about Data Analytics, Business Intelligence & Machine Learning
+> 📊 Aspiring AI/ML Engineer | AI & ML Undergraduate 
 
 <table>
 <tr>
