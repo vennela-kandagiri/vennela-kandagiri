@@ -8,13 +8,15 @@
 <td width="60%" valign="top">
 <h2>👩‍💻 Who I Am </h2>
 
-Hi! I'm **Vennela Kandagiri**, a B.Tech student in **Artificial Intelligence & Machine Learning** with a strong interest in **Data Analytics, Business Intelligence, and Machine Learning**.
 
-I have **3 months of experience as an LLM Post-Training Intern at Ethara AI**, where I evaluated AI-generated responses, improved model quality, and contributed to post-training workflows. I also completed a **1-month Machine Learning Internship at CodSoft**, working on data preprocessing, exploratory data analysis, and predictive machine learning models.
+### 👋 Who Am I?
 
-I enjoy building end-to-end data projects using **Python, SQL, Power BI, and Machine Learning** to solve real-world business problems. My projects focus on transforming raw data into actionable insights through dashboards, analytics, and predictive modeling.
+Hi! I’m **Vennela**, an aspiring **AI/ML Engineer** passionate about building intelligent solutions with **Machine Learning, Deep Learning, Computer Vision, and Generative AI**. I enjoy exploring how AI can solve real-world problems and continuously learning new technologies to improve my skills.
 
-I'm currently seeking opportunities as a **Data Analyst**, where I can leverage data to drive informed business decisions while continuously learning and growing in the field.
+My technical interests include **Python, SQL, Machine Learning, Deep Learning, Computer Vision, Generative AI, Large Language Models (LLMs), RAG, LangChain, LangGraph, and AI Automation**. I also work with tools and libraries such as **Pandas, NumPy, Scikit-learn, Matplotlib, Git, and GitHub**, and have experience with data processing, model development, evaluation, and AI workflows.
+
+I’m currently focused on strengthening my expertise in **Deep Learning, Computer Vision, LLMs, RAG, and production-oriented AI systems**. I’m passionate about building, experimenting, and learning continuously while working toward becoming a skilled **AI/ML Engineer**. 🚀
+
 
 
 
@@ -30,7 +32,7 @@ I'm currently seeking opportunities as a **Data Analyst**, where I can leverage 
 name:           Vennela Kandagiri
 education:      B.Tech AI & ML (2023–2027)
 experience:     4 Months (Internships)
-focus:          Data Analytics • Power BI • ML
+focus:          AI • Automation • Data Science
 projects:       20+ end to end projects
 Certifications: 5+ professional certifications
 Languages :     Python • SQL • Java
@@ -38,8 +40,7 @@ Skills:         Power BI • Excel
                 AI • ML • DL • Automation  
 tools:          Git • GitHub • SQL Server
 location:       Telangana, India
-goal:           Data Analyst
-                Driving insights through data
+goal:           AI/ML Engineer
 ```
 
 </td>
